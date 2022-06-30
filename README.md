@@ -49,8 +49,8 @@ Your code should run in major modern browsers.
 
 Our evaluation criteria are:
 
-* the correctness of the algorithm
-* the readability of the code (code structure, variables naming, comments,…)
+- the correctness of the algorithm
+- the readability of the code (code structure, variables naming, comments,…)
 
 ## Visual illustration of the problem
 
@@ -96,7 +96,7 @@ The configuration above meets all constraints. Be careful, something like below 
 
 **If we combine cases 1, 2 and 3, you should end up with something like**
 
-*The schema below assumes the width of event 1 equals the width of the window.*
+_The schema below assumes the width of event 1 equals the width of the window._
 
 ```
 ┌────────────┐
@@ -120,8 +120,7 @@ The configuration above meets all constraints. Be careful, something like below 
 
 **Satisfying both constraints**
 
-*The schema below assumes the width of event 1 equals the width of the window.*
-
+_The schema below assumes the width of event 1 equals the width of the window._
 
 ```
 ┌────────────┐
